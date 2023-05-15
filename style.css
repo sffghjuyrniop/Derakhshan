@@ -1,0 +1,23 @@
+body {
+	background-image: url("IMG_20230515_072833_915.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box {
+	height: 155px;
+	display: block;
+	margin-left: 150px;
+}
+.web {
+	margin-top: 1157px;
+	width: 575px;
+}
+.wat {
+	width: 616px;
+}
+.tel {
+	width: 658px;
+}
+.ins {
+	width: 701px;
+}
